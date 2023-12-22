@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+nav{
+    background-color: yellow;
+}
+
+#escudo{
+    width: 100px;
+}
+
+#registroDeMago{
+    background-color:rgba(245, 245, 220, 0.527) ;
+}
+
+td, h2, th{
+    color: yellow;
+}
