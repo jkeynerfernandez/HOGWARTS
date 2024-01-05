@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+}
+#voyYTabla{
+    display: flex;
+}
+nav{
+    background-color: yellow;
+}
+
+#escudo{
+    width: 100px;
+}
+
+.vozSombrero{
+    background-color: rgba(245, 245, 220, 0.425);
+    width: 50%;
+}
+
+.listaDeEstudiantes{
+    background-color: rgba(245, 245, 220, 0.425);
+    width: 50%;
+}
+
+table{
+    border-collapse: collapse;
+    
+    
+    background-color: rgba(245, 245, 220, 0.425);
+    width: 25%;
+
+    padding: 20px 40px;
+    
+}
